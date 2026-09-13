@@ -39,6 +39,6 @@ Sou um programador apaixonado por tecnologia, automação e desenvolvimento de s
 | **Backend & Core** | Python, FastAPI, .NET, Rust |
 | **Frontend** | React |
 | **Banco de Dados** | SQL |
-| **Sistema & Automação** | Bash, Arch Linux, Hyprland |
+| **Sistema & Automação** | Bash, Arch Linux |
 
 </div>
