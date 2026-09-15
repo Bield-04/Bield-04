@@ -1,29 +1,25 @@
-Gabriel
+# Gabriel
 
-Estudante de programação com foco em C# e .NET.
+Estudante de programação com foco em **C# e .NET**.
 
 Gosto de entender por que o código funciona e de aprender colocando a mão na massa. Estou reconstruindo meu portfólio com projetos próprios e registrando minha evolução como desenvolvedor.
 
-Em estudo
+## Em estudo
 
-Lógica de programação, sintaxe e orientação a objetos com C#.
+- Lógica de programação, sintaxe e orientação a objetos com C#.
+- Desenvolvimento de APIs com .NET.
+- Interfaces web com React.
+- Versionamento com Git e GitHub.
+- Contêineres e configuração de ambientes com Docker.
 
-Desenvolvimento de APIs com .NET.
+## Stack
 
-Interfaces web com React.
+`C#` · `.NET` · `React` · `Git` · `GitHub` · `Docker`
 
-Versionamento com Git e GitHub.
+## Meu ambiente
 
-Contêineres e configuração de ambientes com Docker.
+**Void Linux** + **Neovim**
 
-Stack
-
-C# · .NET · React · Git · GitHub · Docker
-
-Meu ambiente
-
-Void Linux + Neovim
-
-Meu portfólio
+## Meu portfólio
 
 Estou desenvolvendo projetos para praticar o que estudo. Meu objetivo é conseguir explicar a lógica, as decisões e o funcionamento de cada aplicação que publico.
