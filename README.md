@@ -23,3 +23,5 @@ Gosto de entender por que o código funciona e de aprender colocando a mão na m
 ## Meu portfólio
 
 Estou desenvolvendo projetos para praticar o que estudo. Meu objetivo é conseguir explicar a lógica, as decisões e o funcionamento de cada aplicação que publico.
+#Link do Portifólio
+https://bield-04.github.io/portifolio-gabriel/
