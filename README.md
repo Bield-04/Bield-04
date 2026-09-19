@@ -18,7 +18,7 @@ Gosto de entender por que o código funciona e de aprender colocando a mão na m
 
 ## Meu ambiente
 
-**Void Linux** + **Neovim**
+**Linux** + **Neovim**
 
 ## Meu portfólio
 
