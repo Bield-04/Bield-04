@@ -47,7 +47,6 @@ Cada repositório por aqui é um passo dessa jornada: começar do nada, tomar as
 ## 📫 Onde me encontrar
 
 - [Perfil no GitHub](https://github.com/Bield-04)
-- [Portfólio](https://bield-04.github.io/portifolio-gabriel/)
 - [Todos os repositórios](https://github.com/Bield-04?tab=repositories)
 
 ---
