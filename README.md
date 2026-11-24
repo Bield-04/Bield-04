@@ -34,26 +34,6 @@ Cada repositório por aqui é um passo dessa jornada: começar do nada, tomar as
 
 ---
 
-## 📂 Projetos
-
-Um panorama do que já criei enquanto aprendo:
-
-| Projeto | O que é |
-| --- | --- |
-| [Meu portfólio](https://github.com/Bield-04/portifolio-gabriel) | Meu espaço para mostrar projetos, estudos e contar a jornada. [Ver no ar](https://bield-04.github.io/portifolio-gabriel/) |
-| [Página para agência de design](https://github.com/Bield-04/Landing-Page.-Design) | Uma página completa para uma agência de design. |
-| [Sistema de estoque](https://github.com/Bield-04/Sistema-de-Estoque) | Um jeito de organizar entradas, saídas e inventário. |
-| [Sistema de concessionária](https://github.com/Bield-04/Sistema-de-Concessionaria) | Um sistema para gerenciar veículos e registros. |
-| [Registrador de carro](https://github.com/Bield-04/Registrador-de-Carro) | Um lugar simples para registrar carros. |
-| [Sorteio de jogos](https://github.com/Bield-04/Sorteio-de-Jogos) | Um sorteador para decidir qual jogo jogar. |
-| [Meus jogos favoritos](https://github.com/Bield-04/Meus-jogos-favoritos) | Um espaço para falar dos jogos que eu gosto. |
-| [Mercado Livre](https://github.com/Bield-04/Mercado-Livre) | Uma tentativa de recriar a aparência de um marketplace conhecido. |
-| [Arquivos de configuração](https://github.com/Bield-04/dotfiles-linux) | Meus ajustes e scripts de instalação. |
-| [Ambiente de desenvolvimento](https://github.com/Bield-04/SetupDevBasico) | Um script para preparar o ambiente do meu jeito. |
-| [Ambiente para jogos](https://github.com/Bield-04/Setup-de-jogosV2) | Um script para deixar a máquina pronta para jogar. |
-| [Desktop personalizado](https://github.com/Bield-04/xfce-unix-rice) | Minha área de trabalho do meu jeitinho. |
-
----
 
 ## 🧭 Momento atual
 
